@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/prantok104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prantok104" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pranto-kumar-91987a194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranto-kumar-91987a194" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18963871" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18963871" height="30" width="40" /></a>
-<a href="https://fb.com/pranto.kumar.9674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pranto.kumar.9674" height="30" width="40" /></a>
+<a href="https://twitter.com/prantok104" target="blank" style="margin-right: 5px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prantok104" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pranto-kumar-91987a194" target="blank"  style="margin-right: 5px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranto-kumar-91987a194" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18963871" target="blank"  style="margin-right: 5px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18963871" height="30" width="40" /></a>
+<a href="https://fb.com/pranto.kumar.9674" target="blank"  style="margin-right: 5px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pranto.kumar.9674" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

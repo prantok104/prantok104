@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranto Kumar</h1>
 <h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
-<img src="https://s3.eu-west-1.amazonaws.com/redsys-prod/articles/eac8c6d69d1ce8ce0ff8824d/images/teaserImage_xxxx_croppedTeaserImage.jpg" width="100%" height="250">
+<img src="https://v4i.rweb-images.com/www.utitech.co.th/images/content/original-1610021993495.png" width="100%" height="250">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prantok104&label=Profile%20views&color=0e75b6&style=flat" alt="prantok104" /> </p>
 

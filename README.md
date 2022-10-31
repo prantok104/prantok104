@@ -5,10 +5,10 @@
 <p>
   <img align="left" width="270" src="https://github-readme-stats.vercel.app/api?username=prantok104&show_icons=true&locale=en" alt="prantok104" />
   <img align="left" width="270" src="https://github-readme-streak-stats.herokuapp.com/?user=prantok104&" alt="prantok104" />
-  <img align="left" width="220" src="https://github-readme-stats.vercel.app/api/top-langs?username=prantok104&show_icons=true&locale=en&layout=compact" alt="prantok104" />
+  <img align="left" width="225" src="https://github-readme-stats.vercel.app/api/top-langs?username=prantok104&show_icons=true&locale=en&layout=compact" alt="prantok104" />
 </p>
 
-<p>Git Overflow</p>
+# Git Overflow
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prantok104" alt="prantok104" /></a> </p>

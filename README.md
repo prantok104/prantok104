@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Pranto Kumar</h1>
+<h1 align="center">Hi 👋, I'm Pranto Kumar 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prantok104&label=Profile%20views&color=0e75b6&style=flat" alt="prantok104" /> </p></h1>
 <h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=prantok104&show_icons=true&locale=en" alt="prantok104" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prantok104&show_icons=true&locale=en&layout=compact" alt="prantok104" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=prantok104&" alt="prantok104" />
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=prantok104&show_icons=true&locale=en" alt="prantok104" />
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=prantok104&show_icons=true&locale=en&layout=compact" alt="prantok104" />
+  <img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=prantok104&" alt="prantok104" />
 </p>
 <p></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prantok104&label=Profile%20views&color=0e75b6&style=flat" alt="prantok104" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prantok104" alt="prantok104" /></a> </p>
 

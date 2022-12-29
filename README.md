@@ -12,6 +12,8 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prantok104" alt="prantok104" /></a> </p>
+# Graph
+<img src="./asset/github-dark.svg" height=250 alt="graph"/>   
 
 
 - 🔭 I’m currently working on **Bsuite/ERP Module**

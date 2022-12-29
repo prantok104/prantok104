@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
-<p><a href="https://twitter.com/prantok104" target="blank"><img src="https://img.shields.io/twitter/follow/prantok104?logo=twitter&style=for-the-badge" alt="prantok104" /></a></p>
+<p align="center"><a href="https://twitter.com/prantok104" target="blank"><img src="https://img.shields.io/twitter/follow/prantok104?logo=twitter&style=for-the-badge" alt="prantok104" /></a></p>
 
 
 

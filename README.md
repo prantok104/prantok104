@@ -34,28 +34,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prantok104" alt="prantok104" /></a> </p>
 
 
-
-
-- 🔭 I’m currently working on **Bsuite/ERP Module**
-
-- 🌱 I’m currently learning **Human**
-
-- 💬 Ask me about **Laravel, Vue, React, Tailwind, Bootstrap**
-
-- 📫 How to reach me **prantok104@gmail.com**
-
-- ⚡ Fun fact **Love**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/prantok104" target="blank" style="margin-right: 5px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prantok104" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pranto-kumar-91987a194" target="blank"  style="margin-right: 5px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranto-kumar-91987a194" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18963871" target="blank"  style="margin-right: 5px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18963871" height="30" width="40" /></a>
-<a href="https://fb.com/prantok104" target="blank"  style="margin-right: 5px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pranto.kumar.9674" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
-<div align="center" dir="auto">
+<div align="left">
         <table>
             <thead>
                 <tr>
@@ -336,3 +316,23 @@
             </tbody>
         </table>
     </div>
+
+
+- 🔭 I’m currently working on **Bsuite/ERP Module**
+
+- 🌱 I’m currently learning about **Human**
+
+- 💬 Ask me about **Laravel, Vue, React, Tailwind, Bootstrap**
+
+- 📫 How to reach me **prantok104@gmail.com**
+
+- ⚡ Fun fact **Love**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/prantok104" target="blank" style="margin-right: 5px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prantok104" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pranto-kumar-91987a194" target="blank"  style="margin-right: 5px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranto-kumar-91987a194" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18963871" target="blank"  style="margin-right: 5px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18963871" height="30" width="40" /></a>
+<a href="https://fb.com/prantok104" target="blank"  style="margin-right: 5px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pranto.kumar.9674" height="30" width="40" /></a>
+</p>
+

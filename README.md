@@ -2,6 +2,14 @@
 <a href="https://twitter.com/prantok104" target="blank"><img src="https://img.shields.io/twitter/follow/prantok104?logo=twitter&style=for-the-badge" alt="prantok104" /></a></h1>
 <h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
 
+
+<a href="https://github.com/prantok104/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/prantok104/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/prantok104/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/prantok104/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/prantok104/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/prantok104/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/prantok104/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/prantok104/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/prantok104/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/prantok104/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/prantok104/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/prantok104/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+
 <p>
   <img align="left" width="270" src="https://github-readme-stats.vercel.app/api?username=prantok104&show_icons=true&locale=en" alt="prantok104" />
   <img align="left" width="270" src="https://github-readme-streak-stats.herokuapp.com/?user=prantok104&" alt="prantok104" />
@@ -12,8 +20,8 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prantok104" alt="prantok104" /></a> </p>
-# Graph
-<img src="./asset/github-dark.svg" height=250 alt="graph"/>   
+
+
 
 
 - 🔭 I’m currently working on **Bsuite/ERP Module**

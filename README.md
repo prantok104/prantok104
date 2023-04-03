@@ -1,4 +1,9 @@
-<h1 align="center"> Hi 👋, I'm Pranto Kumar </h1>
+<table>
+  <tbody>
+    <tr>
+      <td><img src="https://camo.githubusercontent.com/fccc48b6169ceac0aefe692ba3b97edd8ddcf66284362fec64c4117bbfb1c1ad/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4356744e6538346868594639752f67697068792e676966"></td>
+      <td>
+        <h1 align="center"> Hi 👋, I'm Pranto Kumar </h1>
 <p align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
@@ -19,7 +24,10 @@
 
 <h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
 <p align="center"><a href="https://twitter.com/prantok104" target="blank"><img src="https://img.shields.io/twitter/follow/prantok104?logo=twitter&style=for-the-badge" alt="prantok104" /></a></p>
-
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 <p>
@@ -27,9 +35,6 @@
   <img align="left" width="270" src="https://github-readme-streak-stats.herokuapp.com/?user=prantok104&" alt="prantok104" />
   <img align="left" width="240" src="https://github-readme-stats.vercel.app/api/top-langs?username=prantok104&show_icons=true&locale=en&layout=compact" alt="prantok104" />
 </p>
-
-# Git Overflow
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prantok104" alt="prantok104" /></a> </p>
 

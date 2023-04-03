@@ -31,13 +31,9 @@
 
 
 <p align="left">
-  <img align="center" width="270" height="150" src="https://github-readme-stats.vercel.app/api?username=prantok104&show_icons=true&locale=en" alt="prantok104" />
-  <img align="center" width="270" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=prantok104&" alt="prantok104" />
-  <img width="50" height=""  src="https://camo.githubusercontent.com/775ae8b9f3291525f82aaf849a192168ea03a212050ba750775d9a949493d6ef/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313435303639343631362f3232302f62616e616e6164616e63652e6769663f31343530363934363136" />
-  <img width="50" height=""  src="https://camo.githubusercontent.com/775ae8b9f3291525f82aaf849a192168ea03a212050ba750775d9a949493d6ef/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313435303639343631362f3232302f62616e616e6164616e63652e6769663f31343530363934363136" />
-  <img width="50" height=""  src="https://camo.githubusercontent.com/775ae8b9f3291525f82aaf849a192168ea03a212050ba750775d9a949493d6ef/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313435303639343631362f3232302f62616e616e6164616e63652e6769663f31343530363934363136" />
-  <img width="50" height=""  src="https://camo.githubusercontent.com/775ae8b9f3291525f82aaf849a192168ea03a212050ba750775d9a949493d6ef/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313435303639343631362f3232302f62616e616e6164616e63652e6769663f31343530363934363136" />
-  <img width="50" height=""  src="https://camo.githubusercontent.com/775ae8b9f3291525f82aaf849a192168ea03a212050ba750775d9a949493d6ef/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313435303639343631362f3232302f62616e616e6164616e63652e6769663f31343530363934363136" />
+  <img align="left" width="375" height="180" src="https://github-readme-stats.vercel.app/api?username=prantok104&show_icons=true&locale=en" alt="prantok104" />
+  <img align="left" width="375" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=prantok104&" alt="prantok104" />
+  
   
 </p>
 
